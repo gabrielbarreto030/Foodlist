@@ -1,12 +1,13 @@
 
 class ItemLista{
+  final int id;
   final String Nome;
-  final double Quantidade;
+  final int Quantidade;
 
-  ItemLista(this.Nome, this.Quantidade);
+  ItemLista(this.id,this.Nome, this.Quantidade);
 
   @override
   String toString() {
-    return 'ItemLista{Nome: $Nome, Quantidade: $Quantidade}';
+    return 'ItemLista{ID: $id ,Nome: $Nome, Quantidade: $Quantidade}';
   }
 }
