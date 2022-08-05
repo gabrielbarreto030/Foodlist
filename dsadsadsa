@@ -1,0 +1,23 @@
+[33mcommit 9431c99b630519054c064ebff5d01159d1b5bb76[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mteste/master[m[33m)[m
+Author: barrosogamer <gabrielbarreto030@gmail.com>
+Date:   Thu Jan 23 21:41:36 2020 -0300
+
+    Implementação de Sqlite e Refatoração de Código
+
+[33mcommit de23cbb7d4183230f43f66b200af5eaa020509e9[m
+Author: barrosogamer <gabrielbarreto030@gmail.com>
+Date:   Thu Jan 23 14:17:03 2020 -0300
+
+    Implementação de Tela de Lista e Tela de Formulario
+
+[33mcommit 55c0ac5baf5b396a3770307d5cc554c94f1318f0[m
+Author: barrosogamer <gabrielbarreto030@gmail.com>
+Date:   Wed Jan 22 22:36:37 2020 -0300
+
+    Inicio de Projeto e Criação de Layout
+
+[33mcommit bf0fc6df93150ed32033185cc1014f83c9ddc6a5[m
+Author: barrosogamer <41655090+barrosogamer@users.noreply.github.com>
+Date:   Wed Jan 22 22:33:06 2020 -0300
+
+    Initial commit
